@@ -7,6 +7,6 @@
 ![REACT](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=react)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-black?style=for-the-badge&logo=figma)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git)
-### Mail me: yulia43bt@gmail.com
-### Telegram: https://t.me/Julia_Shevchenko91
+### 📩 Mail me: yulia43bt@gmail.com
+### 🌐 Telegram: https://t.me/Julia_Shevchenko91
 
