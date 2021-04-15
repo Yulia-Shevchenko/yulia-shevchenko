@@ -4,7 +4,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=scss)
+![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
 ![GULP](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=gulp)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-black?style=for-the-badge&logo=figma)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git)
