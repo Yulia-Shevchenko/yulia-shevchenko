@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is *Yulia Shevchenko*!
+# 👋 Hi there, my name is *Julia Shevchenko*!
 ## I'm a beginner *Front-end developer* from Minsk.
 ### Languages and Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=javascript)
