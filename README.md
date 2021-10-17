@@ -10,6 +10,6 @@
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git)
 ### 📩 Mail me: yulia43bt@gmail.com
 ### 🌐 Telegram: https://t.me/Julia_Shevchenko91
-### 🌐 Linkidin https://www.linkedin.com/in/juliasheva91/
+### 🌐 Linkedin https://www.linkedin.com/in/juliasheva91/
  
 
