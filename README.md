@@ -2,9 +2,11 @@
 ## I'm a beginner *Front-end developer* from Minsk.
 ### Languages and Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=javascript)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-black?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
+![ANGULAR](https://img.shields.io/badge/-ANGULAR-black?style=for-the-badge&logo=angular)
 ![GULP](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=gulp)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-black?style=for-the-badge&logo=figma)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git)
